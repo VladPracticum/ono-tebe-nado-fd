@@ -92,7 +92,7 @@
 }
 
 
-.aligned_text_left{
+.aligned_text_left {
   text-align: left;
 }
 .aligned_text_center {
@@ -153,9 +153,7 @@
   list-style: none;
 }
 
-.lots_card_list_item {
-  
-}
+
 
 .card_link {
   display: block;
