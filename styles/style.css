@@ -135,7 +135,7 @@
 }
 
 .lots {
-  padding: 0 50px;
+  padding: 180px 24px 0px 24px;
 }
 
 .lots_heading {
@@ -230,7 +230,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 24px;
-  padding: 0 50px;
+  padding: 120px 50px 0px 50px;
   
   
 }
