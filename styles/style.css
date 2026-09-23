@@ -101,7 +101,7 @@
   border: 1px;
   align-items: center;
   gap: 78px;
-  padding: 106px 0px 0px 50px;
+  padding: 106px 0px 50px 50px;
 }
 .cover_description_text {
   color: #FFF;
