@@ -4,7 +4,7 @@
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   padding: 92px 50px 100px 50px;
-  height: 293px;
+  
 }
 .header_links_list {
   display: flex;
@@ -102,7 +102,7 @@
   border: 1px;
   align-items: center;
   gap: 78px;
-  padding: 106px 0px 25px 50px;
+  padding: 106px 0px 30px 50px;
 }
 .cover_description_text {
   color: #FFF;
