@@ -137,6 +137,7 @@
   grid-template-columns: 1fr 1fr 1fr;
   gap: 25px;
   list-style: none;
+  height: 596px;
 }
 .lots_card_list_item {
   height: 100%;
@@ -195,7 +196,7 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 24px;
-  padding: 155px 50px 0px 24px;
+  padding: 155px 50px 0px 47px;
 }
 .about_column {
   justify-self: center;
