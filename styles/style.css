@@ -197,10 +197,11 @@
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 24px;
-  padding: 155px 50px 0px 47px;
+  padding: 150px 50px 10px 40px;
 }
 .about_column {
   justify-self: center;
+  
 }
 .about_column_image {
   grid-column: 2/4;
