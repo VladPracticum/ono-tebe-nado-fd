@@ -4,6 +4,7 @@
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
   padding: 92px 50px 100px 50px;
+  height: 293px;
   
 }
 .header_links_list {
