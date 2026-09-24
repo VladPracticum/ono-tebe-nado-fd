@@ -186,6 +186,7 @@
   font-size: 20px;
   line-height: 1.2;
   text-decoration: none;
+  
 }
 .lots_look_more_link {
   display: block;
@@ -231,9 +232,9 @@
 }
 .about_text_p {
   font-size: 20px;
-  line-height: normal;
   line-height: 24px;
   font-weight: 400;
+  letter-spacing: 0%;
 }
 .footer {
   display: flex;
