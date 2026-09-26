@@ -1,7 +1,7 @@
 /* место для вашего кода */
 .header {
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
+  grid-template-columns: 1fr 1fr 1fr;
   align-items: center;
   padding: 92px 50px 100px 50px;
   height: 293px;
@@ -101,7 +101,7 @@
   display: flex;
   align-items: center;
   gap: 78px;
-  padding: 136px 0 0 0px;
+  padding: 106px 0 30px 0px;
 }
 
 .cover_description_text {
@@ -109,7 +109,7 @@
   font-size: 22px;
   line-height: 1.27;
   text-transform: uppercase;
-  word-spacing: 18px;
+  word-spacing: 20px;
 }
 
 .bet_button {
