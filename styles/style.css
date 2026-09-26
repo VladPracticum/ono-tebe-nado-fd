@@ -1,7 +1,7 @@
 /* место для вашего кода */
 .header {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 0.5fr 1fr;
   align-items: center;
   padding: 92px 50px 100px 50px;
   height: 293px;
@@ -114,7 +114,7 @@
 
 .bet_button {
   border: 1px #fff solid;
-  padding: 14px 32px;
+  padding: 14px 40px;
   color: #fff;
   font-family: "Raleway", sans-serif;
   font-weight: normal;
@@ -243,7 +243,7 @@
 .footer { 
   display: flex; 
   justify-content: space-between; 
-  padding: 165px 50px 0px; 
+  padding: 170px 50px 0px; 
 } 
 .footer_address { 
   justify-self: end; 
