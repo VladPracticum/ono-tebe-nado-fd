@@ -41,6 +41,7 @@
   align-items: flex-start;
   justify-self: end;
   font-size: 18px;
+  line-height: 24.3px;
 }
 .article__item {
   display: block;
@@ -127,6 +128,7 @@
   line-height: 1;
   text-transform: uppercase;
   background-color: transparent;
+  margin-left: -10px;
   
   
 
@@ -225,6 +227,8 @@
   height: 240px;
   border-radius: 50%;
   background-color: #000000;
+  margin-left: -10px;
+  
 }
 .about_logo_image {
   width: 148px;
