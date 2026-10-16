@@ -85,11 +85,11 @@
   text-align: left;
 }
 .aligned_text_center {
-  line-height: 1;
+
   text-align: center;
 }
 .aligned_text_right {
-  line-height: 1;
+
   text-align: right;
   margin-left: 380px;
 }
@@ -118,7 +118,7 @@
 
 .bet_button {
   border: 1px #fff solid;
-  padding: 14px 32px;
+  padding: 14px 40px;
   color: #fff;
   font-family: "Raleway", sans-serif;
   font-weight: normal;
@@ -126,6 +126,8 @@
   line-height: 1;
   text-transform: uppercase;
   background-color: transparent;
+  cursor: pointer;
+  margin-left: 10px;
 }
 .lots {
   padding: 180px 24px 0px 24px;
