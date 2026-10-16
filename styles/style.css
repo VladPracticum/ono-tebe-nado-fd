@@ -100,7 +100,6 @@
   position: relative;
   z-index: 1;
   display: flex;
-  justify-content: flex-end;
   align-items: center;
   gap: 78px;
   padding: 106px 0 30px 0px;
@@ -125,6 +124,7 @@
   text-transform: uppercase;
   background-color: transparent;
   cursor: pointer;
+  margin-left: 10px;
 }
 .lots {
   padding: 180px 24px 0px 24px;
