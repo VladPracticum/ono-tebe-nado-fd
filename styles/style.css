@@ -98,11 +98,12 @@
 .aligned_text_right {
 
   text-align: right;
-  margin-left: 380px;
+  padding-left: 400px;
 }
 .letter_spacing_extended {
   letter-spacing: 30px;
-  margin-right: 0px;
+  
+  
 }
 .no_letter_spacing {
   letter-spacing: normal;
