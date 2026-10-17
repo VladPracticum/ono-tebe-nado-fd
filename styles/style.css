@@ -102,7 +102,7 @@
 }
 .letter_spacing_extended {
   letter-spacing: 30px;
-  margin-right: 20px;
+  margin-right: 0px;
 }
 .no_letter_spacing {
   letter-spacing: normal;
