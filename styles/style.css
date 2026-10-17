@@ -5,6 +5,7 @@
   align-items: center;
   padding: 92px 50px 89px 50px;
   
+  
 }
 .header_links_list {
   display: flex;
@@ -22,6 +23,7 @@
 }
 .header_menu {
   padding-left: 0px;
+  
 }
 .header_link_active {
   text-decoration: none;
@@ -42,6 +44,9 @@
   justify-self: end;
   font-size: 18px;
   line-height: 24.3px;
+  font-style: normal;
+  padding-right: 40px;
+  
 }
 .article__item {
   display: block;
@@ -87,7 +92,7 @@
   text-align: left;
 }
 .aligned_text_center {
-  padding-left: 10px;
+  padding-left: -10px;
   text-align: center;
 }
 .aligned_text_right {
@@ -128,7 +133,9 @@
   line-height: 1;
   text-transform: uppercase;
   background-color: transparent;
-  margin-left: -10px;
+  margin-left: 35px;
+  
+  
   
   
 
@@ -273,6 +280,8 @@
 .footer_menu_list {
   text-align: center;
   list-style: none;
+  margin-left: -40px;
+
 }
 
 .footer_menu-link {
