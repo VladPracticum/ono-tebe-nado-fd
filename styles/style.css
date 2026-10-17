@@ -92,8 +92,9 @@
   text-align: left;
 }
 .aligned_text_center {
-  padding-left: -10px;
+  
   text-align: center;
+  margin-left: -30px;
 }
 .aligned_text_right {
 
@@ -102,6 +103,7 @@
 }
 .letter_spacing_extended {
   letter-spacing: 30px;
+  
   
   
 }
